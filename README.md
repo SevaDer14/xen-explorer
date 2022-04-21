@@ -5,6 +5,9 @@ This is the simple program to generate inharmonic spectrum, calculate its disson
 
 Used for some vids on Objetive Harmony YT channel https://www.youtube.com/channel/UCPDmqGWT3zj9m6EMznlEvEA
 
+## Contact for Qustions and Suggestions
+email: objectiveharmony@gmail.com
+
 ## How To Use
 ### Installation (Windows)
 
