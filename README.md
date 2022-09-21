@@ -3,9 +3,9 @@
 ## Web version is being developed!!!
 
 I started to work on a web version of the program to make its use more accessible. Eventually it will replace this version compeletely. 
-Link to Repo: https://github.com/SevaDer14/xen-kit
-Deployed App: https://xen-ak2w30383-sevader14.vercel.app/
-Follow updates on YouTube: https://www.youtube.com/channel/UCPDmqGWT3zj9m6EMznlEvEA
+- Link to Repo: https://github.com/SevaDer14/xen-kit
+- Deployed App: https://xen-ak2w30383-sevader14.vercel.app/
+- Follow updates on YouTube: https://www.youtube.com/channel/UCPDmqGWT3zj9m6EMznlEvEA
 
 ## About
 This is the simple program to generate inharmonic spectrum, calculate its dissonance curve and save it as an audio sample. The dissonance curve calculation is based on William Sethares work from book 'Tuning, Timbre. Spectrum, Scale'. It allows to generate samples that harmonize in unusual tunings in which usual harmonic sounds will sound out of tune. The code is open, feel free to fork it and suggest your changes. But the plan is to make a web version of it, for ease of use of everybody.
