@@ -4,7 +4,7 @@
 
 I started to work on a web version of the program to make its use more accessible. Eventually it will replace this version compeletely. 
 - Link to Repo: https://github.com/SevaDer14/xen-kit
-- Deployed App: https://xen-kit.vercel.app/
+- Deployed App: https://newtonality.net/lab
 - Follow updates on YouTube: https://www.youtube.com/channel/UCPDmqGWT3zj9m6EMznlEvEA
 
 ## About
